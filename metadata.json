@@ -1,0 +1,5 @@
+{
+  "name": "KDP Ars - Amazon Publisher Scanner",
+  "description": "A powerful Chrome extension to scan Amazon search results, detect publishers, and analyze brand distribution for KDP research.",
+  "requestFramePermissions": []
+}
